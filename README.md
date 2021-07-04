@@ -1,11 +1,11 @@
-#React Food Order App
+# React Food Order App
 
 This project uses the npm environment and the using database that has been created by using firebase.
 
 This project can be available to anyone who wants to see its functionality. 
 
 
-##Running the attached code
+## Running the attached code
 You can use the attached code simply to compare it to yours. But you can also run it.
 
 To run my code, navigate into a specific code snapshot folder via the `cd` command in your command prompt or terminal first.
